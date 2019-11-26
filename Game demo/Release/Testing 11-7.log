@@ -1,0 +1,14 @@
+﻿  Game demo.cpp
+C:\Users\jmswislow\source\repos\Game demo\Game demo.cpp(24,30): warning C4309:  'initializing': truncation of constant value
+C:\Users\jmswislow\source\repos\Game demo\Game demo.cpp(25,31): warning C4309:  'initializing': truncation of constant value
+C:\Users\jmswislow\source\repos\Game demo\Game demo.cpp(26,33): warning C4309:  'initializing': truncation of constant value
+C:\Users\jmswislow\source\repos\Game demo\Game demo.cpp(27,34): warning C4309:  'initializing': truncation of constant value
+C:\Users\jmswislow\source\repos\Game demo\Game demo.cpp(28,23): warning C4309:  'initializing': truncation of constant value
+C:\Users\jmswislow\source\repos\Game demo\Game demo.cpp(29,25): warning C4309:  'initializing': truncation of constant value
+C:\Users\jmswislow\source\repos\Game demo\Game demo.cpp(30,26): warning C4309:  'initializing': truncation of constant value
+C:\Users\jmswislow\source\repos\Game demo\Game demo.cpp(31,24): warning C4309:  'initializing': truncation of constant value
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Testing 11-7.vcxproj -> C:\Users\jmswislow\source\repos\Game demo\Release\Game demo.exe
